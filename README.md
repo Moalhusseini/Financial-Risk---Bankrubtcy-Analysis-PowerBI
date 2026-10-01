@@ -31,21 +31,22 @@ risk-monitoring insights.
 
 ### 1. Executive Financial Risk Overview
 
-![Executive Risk Overview](screenshots/executive-risk-overview.png)
+<img width="1105" height="617" alt="image" src="https://github.com/user-attachments/assets/48c2ee48-31b7-4f77-8e24-ced181c466b6" />
+
 
 Provides an overview of company financial risk, bankruptcy rates,
 risk segmentation, and cluster distribution.
 
 ### 2. Financial Relationship & Risk Analysis
 
-![Financial Risk Analysis](screenshots/financial-risk-analysis.png)
+<img width="1081" height="602" alt="image" src="https://github.com/user-attachments/assets/a75f3995-7c24-4455-a2d8-f6d27ed0206e" />
 
 Explores relationships between financial indicators and risk levels,
 including debt ratio, cash flow, profitability, and interest coverage.
 
 ### 3. Decision Support & Risk Monitoring
 
-![Decision Support](screenshots/decision-support-risk-monitoring.png)
+<img width="1080" height="605" alt="image" src="https://github.com/user-attachments/assets/61fb9839-9247-477d-a4dd-b884aca24e5b" />
 
 Provides risk monitoring indicators and company-level decision
 categories such as Safe, Monitoring, and Critical.
